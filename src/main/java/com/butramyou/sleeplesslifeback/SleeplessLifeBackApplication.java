@@ -1,4 +1,4 @@
-package com.butramyou.SleeplessLifeBack;
+package com.butramyou.sleeplesslifeback;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
